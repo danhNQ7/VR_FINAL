@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRCAR-master", "VRCAR-master.csproj", "{6612B2BE-3E2B-57F8-F0B0-054238782B5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRCAR-master.Editor", "VRCAR-master.Editor.csproj", "{D4B6A4EF-7137-151E-4D7F-E3FFA0CCD083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6612B2BE-3E2B-57F8-F0B0-054238782B5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6612B2BE-3E2B-57F8-F0B0-054238782B5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6612B2BE-3E2B-57F8-F0B0-054238782B5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6612B2BE-3E2B-57F8-F0B0-054238782B5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B6A4EF-7137-151E-4D7F-E3FFA0CCD083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B6A4EF-7137-151E-4D7F-E3FFA0CCD083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B6A4EF-7137-151E-4D7F-E3FFA0CCD083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B6A4EF-7137-151E-4D7F-E3FFA0CCD083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
